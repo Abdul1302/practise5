@@ -1,0 +1,7 @@
+                  To turn on optical margins in Adobe InDesign,simply
+                  select any text box you wish to apply them to and 
+                  then open up the (not very intuitively named) “Story”
+                  dialog box. You can adjust the degree to which the 
+                  punctuation hangs over the edges of the text box to
+                  match to match the size of your text or suit your own
+                  preferences.
